@@ -1,0 +1,1153 @@
+2026-03-15 14:41:49,360 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 14:42:26,346 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 14:42:26,888 | INFO | aiogram.dispatcher | Start polling
+2026-03-15 14:42:26,914 | INFO | barbershop_bot | Подключение к базе...
+2026-03-15 14:42:26,914 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 14:42:26,914 | INFO | barbershop_bot | База подключена
+2026-03-15 14:42:26,915 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-15 14:42:26,915 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-15 14:42:27,275 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-15 14:59:39,144 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 14:59:39,145 | INFO | barbershop_bot | База отключена
+2026-03-15 14:59:45,771 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 14:59:46,060 | INFO | aiogram.dispatcher | Start polling
+2026-03-15 14:59:46,085 | INFO | barbershop_bot | Подключение к базе...
+2026-03-15 14:59:46,085 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 14:59:46,086 | INFO | barbershop_bot | База подключена
+2026-03-15 14:59:46,086 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-15 14:59:46,086 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-15 14:59:46,496 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-15 14:59:52,239 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-15 14:59:52,614 | INFO | aiogram.event | Update id=808674063 is handled. Duration 376 ms by bot id=8704086460
+2026-03-15 14:59:54,559 | INFO | aiogram.event | Update id=808674064 is handled. Duration 156 ms by bot id=8704086460
+2026-03-15 15:02:22,683 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-15 15:02:22,819 | INFO | aiogram.event | Update id=808674065 is handled. Duration 137 ms by bot id=8704086460
+2026-03-15 15:02:23,987 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-15 15:02:24,143 | INFO | aiogram.event | Update id=808674066 is handled. Duration 157 ms by bot id=8704086460
+2026-03-15 15:02:26,153 | INFO | aiogram.event | Update id=808674067 is handled. Duration 141 ms by bot id=8704086460
+2026-03-15 15:02:27,541 | INFO | aiogram.event | Update id=808674068 is handled. Duration 168 ms by bot id=8704086460
+2026-03-15 15:02:30,068 | INFO | aiogram.event | Update id=808674069 is handled. Duration 428 ms by bot id=8704086460
+2026-03-15 15:02:33,270 | INFO | aiogram.event | Update id=808674070 is handled. Duration 293 ms by bot id=8704086460
+2026-03-15 15:04:01,527 | INFO | aiogram.event | Update id=808674071 is handled. Duration 150 ms by bot id=8704086460
+2026-03-15 15:04:03,236 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-15 15:04:03,408 | INFO | aiogram.event | Update id=808674072 is handled. Duration 173 ms by bot id=8704086460
+2026-03-15 15:04:04,915 | INFO | aiogram.event | Update id=808674073 is handled. Duration 173 ms by bot id=8704086460
+2026-03-15 15:04:06,119 | INFO | aiogram.event | Update id=808674074 is handled. Duration 209 ms by bot id=8704086460
+2026-03-15 15:04:09,090 | INFO | aiogram.event | Update id=808674075 is handled. Duration 405 ms by bot id=8704086460
+2026-03-15 15:04:23,953 | INFO | aiogram.event | Update id=808674076 is handled. Duration 362 ms by bot id=8704086460
+2026-03-15 15:04:25,373 | INFO | aiogram.event | Update id=808674077 is handled. Duration 157 ms by bot id=8704086460
+2026-03-15 15:04:26,846 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-15 15:04:26,987 | INFO | aiogram.event | Update id=808674078 is handled. Duration 141 ms by bot id=8704086460
+2026-03-15 15:05:00,399 | INFO | aiogram.event | Update id=808674079 is handled. Duration 191 ms by bot id=8704086460
+2026-03-15 15:05:03,340 | INFO | aiogram.event | Update id=808674080 is handled. Duration 166 ms by bot id=8704086460
+2026-03-15 15:05:05,898 | INFO | aiogram.event | Update id=808674081 is handled. Duration 427 ms by bot id=8704086460
+2026-03-15 15:05:14,037 | INFO | aiogram.event | Update id=808674082 is handled. Duration 315 ms by bot id=8704086460
+2026-03-15 15:05:18,669 | INFO | aiogram.event | Update id=808674083 is handled. Duration 167 ms by bot id=8704086460
+2026-03-15 15:05:20,564 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-15 15:05:20,717 | INFO | aiogram.event | Update id=808674084 is handled. Duration 154 ms by bot id=8704086460
+2026-03-15 15:05:25,429 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-15 15:05:25,573 | INFO | aiogram.event | Update id=808674085 is handled. Duration 144 ms by bot id=8704086460
+2026-03-15 15:05:28,103 | INFO | aiogram.event | Update id=808674086 is handled. Duration 153 ms by bot id=8704086460
+2026-03-15 15:05:29,325 | INFO | aiogram.event | Update id=808674087 is handled. Duration 145 ms by bot id=8704086460
+2026-03-15 15:05:31,830 | INFO | aiogram.event | Update id=808674088 is handled. Duration 570 ms by bot id=8704086460
+2026-03-15 15:05:56,655 | INFO | aiogram.event | Update id=808674089 is handled. Duration 443 ms by bot id=8704086460
+2026-03-15 15:05:57,959 | INFO | aiogram.event | Update id=808674090 is handled. Duration 161 ms by bot id=8704086460
+2026-03-15 15:06:00,278 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-15 15:06:00,420 | INFO | aiogram.event | Update id=808674091 is handled. Duration 143 ms by bot id=8704086460
+2026-03-15 15:06:18,468 | INFO | aiogram.event | Update id=808674092 is handled. Duration 166 ms by bot id=8704086460
+2026-03-15 15:06:20,079 | INFO | aiogram.event | Update id=808674093 is handled. Duration 166 ms by bot id=8704086460
+2026-03-15 15:06:22,191 | INFO | aiogram.event | Update id=808674094 is handled. Duration 295 ms by bot id=8704086460
+2026-03-15 15:12:27,723 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:12:27,723 | INFO | barbershop_bot | База отключена
+2026-03-15 15:12:31,605 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 15:12:31,898 | INFO | aiogram.dispatcher | Start polling
+2026-03-15 15:12:31,923 | INFO | barbershop_bot | Подключение к базе...
+2026-03-15 15:12:31,923 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:12:31,923 | INFO | barbershop_bot | База подключена
+2026-03-15 15:12:31,923 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-15 15:12:31,924 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-15 15:12:32,266 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-15 15:14:15,720 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:14:15,720 | INFO | barbershop_bot | База отключена
+2026-03-15 15:14:19,163 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 15:14:19,454 | INFO | aiogram.dispatcher | Start polling
+2026-03-15 15:14:19,481 | INFO | barbershop_bot | Подключение к базе...
+2026-03-15 15:14:19,481 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:14:19,481 | INFO | barbershop_bot | База подключена
+2026-03-15 15:14:19,481 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-15 15:14:19,481 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-15 15:14:19,841 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-15 15:17:59,499 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:17:59,499 | INFO | barbershop_bot | База отключена
+2026-03-15 15:18:03,082 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 15:18:03,376 | INFO | aiogram.dispatcher | Start polling
+2026-03-15 15:18:03,402 | INFO | barbershop_bot | Подключение к базе...
+2026-03-15 15:18:03,403 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:18:03,403 | INFO | barbershop_bot | База подключена
+2026-03-15 15:18:03,403 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-15 15:18:03,403 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-15 15:18:03,761 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-15 15:23:08,176 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:23:08,176 | INFO | barbershop_bot | База отключена
+2026-03-15 15:26:20,316 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 15:26:20,606 | INFO | aiogram.dispatcher | Start polling
+2026-03-15 15:26:20,631 | INFO | barbershop_bot | Подключение к базе...
+2026-03-15 15:26:20,631 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:26:20,631 | INFO | barbershop_bot | База подключена
+2026-03-15 15:26:20,631 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-15 15:26:20,632 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-15 15:26:20,992 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-15 15:28:11,168 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:28:11,169 | INFO | barbershop_bot | База отключена
+2026-03-15 15:28:14,474 | INFO | barbershop_bot | Запуск бота...
+2026-03-15 15:28:14,784 | INFO | aiogram.dispatcher | Start polling
+2026-03-15 15:28:14,811 | INFO | barbershop_bot | Подключение к базе...
+2026-03-15 15:28:14,811 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-15 15:28:14,811 | INFO | barbershop_bot | База подключена
+2026-03-15 15:28:14,812 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-15 15:28:14,812 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-15 15:28:15,206 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:44:05,696 | INFO | barbershop_bot | Запуск бота...
+2026-03-16 21:44:06,198 | INFO | aiogram.dispatcher | Start polling
+2026-03-16 21:44:06,324 | INFO | barbershop_bot | Подключение к базе...
+2026-03-16 21:44:06,324 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:44:06,325 | INFO | barbershop_bot | База подключена
+2026-03-16 21:44:06,325 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-16 21:44:06,325 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-16 21:44:06,655 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:44:06,762 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Ирина
+2026-03-16 21:44:06,763 | INFO | aiogram.event | Update id=808674095 is handled. Duration 4 ms by bot id=8704086460
+2026-03-16 21:44:06,763 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Светалана
+2026-03-16 21:44:06,763 | INFO | aiogram.event | Update id=808674096 is handled. Duration 3 ms by bot id=8704086460
+2026-03-16 21:44:06,763 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Ольга
+2026-03-16 21:44:06,763 | INFO | aiogram.event | Update id=808674097 is handled. Duration 3 ms by bot id=8704086460
+2026-03-16 21:45:28,792 | INFO | barbershop_bot | /start | user=611996998
+2026-03-16 21:45:28,802 | INFO | barbershop_bot | USER 611996998: Зарегистрирован новый пользователь
+2026-03-16 21:45:29,143 | INFO | aiogram.event | Update id=808674098 is handled. Duration 351 ms by bot id=8704086460
+2026-03-16 21:45:32,427 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Мастера
+2026-03-16 21:45:32,427 | INFO | aiogram.event | Update id=808674099 is handled. Duration 2 ms by bot id=8704086460
+2026-03-16 21:45:56,586 | INFO | aiogram.event | Update id=808674100 is handled. Duration 125 ms by bot id=8704086460
+2026-03-16 21:45:58,501 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Мастера
+2026-03-16 21:45:58,501 | INFO | aiogram.event | Update id=808674101 is handled. Duration 2 ms by bot id=8704086460
+2026-03-16 21:47:28,556 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:47:28,557 | INFO | barbershop_bot | База отключена
+2026-03-16 21:47:28,560 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-16 21:47:28,566 | INFO | aiogram.dispatcher | Polling stopped for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:47:40,531 | INFO | barbershop_bot | Запуск бота...
+2026-03-16 21:47:40,817 | INFO | aiogram.dispatcher | Start polling
+2026-03-16 21:47:40,842 | INFO | barbershop_bot | Подключение к базе...
+2026-03-16 21:47:40,842 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:47:40,842 | INFO | barbershop_bot | База подключена
+2026-03-16 21:47:40,842 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-16 21:47:40,842 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-16 21:47:41,162 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:47:45,420 | INFO | barbershop_bot | /start | user=611996998
+2026-03-16 21:47:45,759 | INFO | aiogram.event | Update id=808674102 is handled. Duration 339 ms by bot id=8704086460
+2026-03-16 21:47:48,180 | INFO | aiogram.event | Update id=808674103 is handled. Duration 121 ms by bot id=8704086460
+2026-03-16 21:47:49,777 | INFO | aiogram.event | Update id=808674104 is handled. Duration 128 ms by bot id=8704086460
+2026-03-16 21:54:52,749 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:54:52,750 | INFO | barbershop_bot | База отключена
+2026-03-16 21:54:55,812 | INFO | barbershop_bot | Запуск бота...
+2026-03-16 21:54:56,101 | INFO | aiogram.dispatcher | Start polling
+2026-03-16 21:54:56,125 | INFO | barbershop_bot | Подключение к базе...
+2026-03-16 21:54:56,125 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:54:56,125 | INFO | barbershop_bot | База подключена
+2026-03-16 21:54:56,126 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-16 21:54:56,126 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-16 21:54:56,450 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:55:00,712 | INFO | aiogram.event | Update id=808674105 is handled. Duration 340 ms by bot id=8704086460
+2026-03-16 21:55:02,009 | INFO | aiogram.event | Update id=808674106 is not handled. Duration 4 ms by bot id=8704086460
+2026-03-16 21:55:02,009 | ERROR | aiogram.event | Cause exception while process update id=808674106 by bot id=8704086460
+KeyError: 'price'
+Traceback (most recent call last):
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Python Project\fastapi\2025-2026\barbershop.bot\barbershop\app\handlers.py", line 74, in schedules_cmd
+    text = await get_schedules_text()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python Project\fastapi\2025-2026\barbershop.bot\barbershop\app\services.py", line 49, in get_schedules_text
+    text += f"- {s['master_name']} — {s['price']}\n"
+                                      ~^^^^^^^^^
+KeyError: 'price'
+2026-03-16 21:55:15,441 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:55:15,442 | INFO | barbershop_bot | База отключена
+2026-03-16 21:55:18,451 | INFO | barbershop_bot | Запуск бота...
+2026-03-16 21:55:18,736 | INFO | aiogram.dispatcher | Start polling
+2026-03-16 21:55:18,760 | INFO | barbershop_bot | Подключение к базе...
+2026-03-16 21:55:18,760 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:55:18,760 | INFO | barbershop_bot | База подключена
+2026-03-16 21:55:18,760 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-16 21:55:18,760 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-16 21:55:19,084 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:55:24,881 | INFO | aiogram.event | Update id=808674107 is handled. Duration 342 ms by bot id=8704086460
+2026-03-16 21:56:52,144 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:56:52,145 | INFO | barbershop_bot | База отключена
+2026-03-16 21:56:56,107 | INFO | barbershop_bot | Запуск бота...
+2026-03-16 21:56:56,395 | INFO | aiogram.dispatcher | Start polling
+2026-03-16 21:56:56,419 | INFO | barbershop_bot | Подключение к базе...
+2026-03-16 21:56:56,419 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:56:56,419 | INFO | barbershop_bot | База подключена
+2026-03-16 21:56:56,419 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-16 21:56:56,419 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-16 21:56:56,739 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:57:01,912 | INFO | aiogram.event | Update id=808674108 is handled. Duration 359 ms by bot id=8704086460
+2026-03-16 21:58:52,651 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:58:52,652 | INFO | barbershop_bot | База отключена
+2026-03-16 21:58:56,530 | INFO | barbershop_bot | Запуск бота...
+2026-03-16 21:58:56,817 | INFO | aiogram.dispatcher | Start polling
+2026-03-16 21:58:56,841 | INFO | barbershop_bot | Подключение к базе...
+2026-03-16 21:58:56,841 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-16 21:58:56,842 | INFO | barbershop_bot | База подключена
+2026-03-16 21:58:56,842 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-16 21:58:56,842 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-16 21:58:57,175 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-16 21:59:10,141 | INFO | aiogram.event | Update id=808674109 is handled. Duration 347 ms by bot id=8704086460
+2026-03-16 21:59:13,819 | INFO | aiogram.event | Update id=808674110 is handled. Duration 136 ms by bot id=8704086460
+2026-03-17 14:21:23,785 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 14:21:24,136 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 14:21:24,557 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 14:21:24,558 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 14:21:24,558 | INFO | barbershop_bot | База подключена
+2026-03-17 14:21:24,559 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 14:21:24,560 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 14:21:24,946 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 14:22:10,047 | INFO | aiogram.event | Update id=808674114 is handled. Duration 421 ms by bot id=8704086460
+2026-03-17 14:22:11,611 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-17 14:22:11,745 | INFO | aiogram.event | Update id=808674115 is handled. Duration 140 ms by bot id=8704086460
+2026-03-17 14:22:13,159 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-17 14:22:13,292 | INFO | aiogram.event | Update id=808674116 is handled. Duration 139 ms by bot id=8704086460
+2026-03-17 14:22:15,563 | INFO | aiogram.event | Update id=808674117 is handled. Duration 125 ms by bot id=8704086460
+2026-03-17 14:22:17,531 | INFO | aiogram.event | Update id=808674118 is handled. Duration 125 ms by bot id=8704086460
+2026-03-17 14:22:26,098 | INFO | aiogram.event | Update id=808674119 is handled. Duration 515 ms by bot id=8704086460
+2026-03-17 14:22:28,638 | INFO | aiogram.event | Update id=808674120 is handled. Duration 233 ms by bot id=8704086460
+2026-03-17 14:22:30,496 | INFO | aiogram.event | Update id=808674121 is handled. Duration 156 ms by bot id=8704086460
+2026-03-17 15:23:36,623 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 15:23:36,625 | INFO | barbershop_bot | База отключена
+2026-03-17 15:25:00,252 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 15:25:00,412 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 15:25:00,567 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 15:25:00,567 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 15:25:00,567 | INFO | barbershop_bot | База подключена
+2026-03-17 15:25:00,567 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 15:25:00,568 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 15:25:00,949 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 15:25:06,360 | INFO | barbershop_bot | /start | user=611996998
+2026-03-17 15:25:06,718 | INFO | aiogram.event | Update id=808674122 is handled. Duration 359 ms by bot id=8704086460
+2026-03-17 15:25:16,730 | INFO | aiogram.event | Update id=808674123 is handled. Duration 140 ms by bot id=8704086460
+2026-03-17 15:25:18,025 | INFO | aiogram.event | Update id=808674124 is handled. Duration 125 ms by bot id=8704086460
+2026-03-17 15:25:19,870 | INFO | aiogram.event | Update id=808674125 is handled. Duration 140 ms by bot id=8704086460
+2026-03-17 15:38:47,619 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 15:38:47,620 | INFO | barbershop_bot | База отключена
+2026-03-17 15:39:07,421 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 15:39:07,512 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 15:39:07,556 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 15:39:07,556 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 15:39:07,556 | INFO | barbershop_bot | База подключена
+2026-03-17 15:39:07,556 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 15:39:07,557 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 15:39:07,909 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 15:39:08,011 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:08,014 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8704086460)
+2026-03-17 15:39:12,145 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:12,146 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8704086460)
+2026-03-17 15:39:13,248 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:13,249 | WARNING | aiogram.dispatcher | Sleep for 1.387433 seconds and try again... (tryings = 1, bot id = 8704086460)
+2026-03-17 15:39:16,842 | INFO | aiogram.dispatcher | Connection established (tryings = 2, bot id = 8704086460)
+2026-03-17 15:39:17,219 | INFO | aiogram.event | Update id=808674126 is handled. Duration 375 ms by bot id=8704086460
+2026-03-17 15:39:17,737 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:17,738 | WARNING | aiogram.dispatcher | Sleep for 1.323119 seconds and try again... (tryings = 1, bot id = 8704086460)
+2026-03-17 15:39:18,598 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Контакты
+2026-03-17 15:39:18,599 | INFO | aiogram.event | Update id=808674127 is handled. Duration 0 ms by bot id=8704086460
+2026-03-17 15:39:19,168 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:19,169 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8704086460)
+2026-03-17 15:39:23,276 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:23,276 | WARNING | aiogram.dispatcher | Sleep for 1.778855 seconds and try again... (tryings = 2, bot id = 8704086460)
+2026-03-17 15:39:25,167 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:25,168 | WARNING | aiogram.dispatcher | Sleep for 1.307780 seconds and try again... (tryings = 1, bot id = 8704086460)
+2026-03-17 15:39:29,577 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:29,577 | WARNING | aiogram.dispatcher | Sleep for 2.241303 seconds and try again... (tryings = 3, bot id = 8704086460)
+2026-03-17 15:39:31,906 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:31,907 | WARNING | aiogram.dispatcher | Sleep for 1.735725 seconds and try again... (tryings = 2, bot id = 8704086460)
+2026-03-17 15:39:36,757 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:36,757 | WARNING | aiogram.dispatcher | Sleep for 3.139981 seconds and try again... (tryings = 4, bot id = 8704086460)
+2026-03-17 15:39:39,992 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-03-17 15:39:49,991 | INFO | aiogram.dispatcher | Connection established (tryings = 5, bot id = 8704086460)
+2026-03-17 15:40:35,722 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 15:40:35,804 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 15:40:35,835 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 15:40:35,835 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 15:40:35,835 | INFO | barbershop_bot | База подключена
+2026-03-17 15:40:35,836 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 15:40:35,836 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 15:40:36,217 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 15:40:42,597 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-17 15:40:43,126 | INFO | aiogram.event | Update id=808674128 is handled. Duration 531 ms by bot id=8704086460
+2026-03-17 15:40:44,922 | INFO | aiogram.event | Update id=808674129 is handled. Duration 139 ms by bot id=8704086460
+2026-03-17 15:40:46,449 | INFO | aiogram.event | Update id=808674130 is handled. Duration 140 ms by bot id=8704086460
+2026-03-17 15:40:47,892 | INFO | aiogram.event | Update id=808674131 is handled. Duration 139 ms by bot id=8704086460
+2026-03-17 15:40:54,063 | INFO | aiogram.event | Update id=808674132 is handled. Duration 155 ms by bot id=8704086460
+2026-03-17 15:40:56,530 | INFO | aiogram.event | Update id=808674133 is handled. Duration 125 ms by bot id=8704086460
+2026-03-17 15:43:33,975 | INFO | aiogram.event | Update id=808674134 is handled. Duration 531 ms by bot id=8704086460
+2026-03-17 15:43:35,991 | INFO | aiogram.event | Update id=808674135 is handled. Duration 156 ms by bot id=8704086460
+2026-03-17 15:43:40,500 | INFO | aiogram.event | Update id=808674136 is handled. Duration 156 ms by bot id=8704086460
+2026-03-17 15:43:50,824 | INFO | aiogram.event | Update id=808674137 is handled. Duration 140 ms by bot id=8704086460
+2026-03-17 16:08:57,639 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 16:08:57,643 | INFO | barbershop_bot | База отключена
+2026-03-17 16:09:13,712 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 16:09:13,799 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 16:09:13,847 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 16:09:13,847 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 16:09:13,847 | INFO | barbershop_bot | База подключена
+2026-03-17 16:09:13,848 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 16:09:13,848 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 16:09:14,242 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 16:09:20,413 | INFO | aiogram.event | Update id=808674138 is handled. Duration 343 ms by bot id=8704086460
+2026-03-17 16:58:07,771 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 16:58:07,925 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 16:58:07,980 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 16:58:07,981 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 16:58:07,981 | INFO | barbershop_bot | База подключена
+2026-03-17 16:58:07,981 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 16:58:07,982 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 16:58:08,377 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 16:58:08,512 | INFO | barbershop_bot | /start | user=611996998
+2026-03-17 16:58:08,519 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=/service
+2026-03-17 16:58:08,519 | INFO | aiogram.event | Update id=808674139 is handled. Duration 0 ms by bot id=8704086460
+2026-03-17 16:58:08,519 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=/help
+2026-03-17 16:58:08,520 | INFO | aiogram.event | Update id=808674140 is handled. Duration 0 ms by bot id=8704086460
+2026-03-17 16:58:09,005 | INFO | aiogram.event | Update id=808674141 is handled. Duration 485 ms by bot id=8704086460
+2026-03-17 16:58:12,118 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=/help
+2026-03-17 16:58:12,119 | INFO | aiogram.event | Update id=808674142 is handled. Duration 0 ms by bot id=8704086460
+2026-03-17 16:58:14,280 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=/service
+2026-03-17 16:58:14,280 | INFO | aiogram.event | Update id=808674143 is handled. Duration 0 ms by bot id=8704086460
+2026-03-17 16:58:19,019 | INFO | barbershop_bot | /start | user=611996998
+2026-03-17 16:58:19,169 | INFO | aiogram.event | Update id=808674144 is handled. Duration 156 ms by bot id=8704086460
+2026-03-17 17:00:08,396 | INFO | barbershop_bot | Отправлено 1h напоминание пользователю 611996998
+2026-03-17 21:11:48,570 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 21:11:48,928 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 21:11:49,021 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 21:11:49,021 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:11:49,021 | INFO | barbershop_bot | База подключена
+2026-03-17 21:11:49,022 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 21:11:49,022 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 21:11:49,364 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 21:27:44,753 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:27:44,754 | INFO | barbershop_bot | База отключена
+2026-03-17 21:28:12,338 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 21:28:12,634 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 21:28:12,659 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 21:28:12,659 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:28:12,659 | INFO | barbershop_bot | База подключена
+2026-03-17 21:28:12,659 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 21:28:12,660 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 21:28:12,973 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 21:29:10,048 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-17 21:29:10,391 | INFO | aiogram.event | Update id=808674145 is handled. Duration 345 ms by bot id=8704086460
+2026-03-17 21:29:15,252 | INFO | aiogram.event | Update id=808674146 is handled. Duration 221 ms by bot id=8704086460
+2026-03-17 21:29:19,081 | INFO | aiogram.event | Update id=808674147 is handled. Duration 144 ms by bot id=8704086460
+2026-03-17 21:29:22,908 | INFO | aiogram.event | Update id=808674148 is handled. Duration 399 ms by bot id=8704086460
+2026-03-17 21:29:24,329 | INFO | aiogram.event | Update id=808674149 is handled. Duration 262 ms by bot id=8704086460
+2026-03-17 21:29:26,737 | INFO | aiogram.event | Update id=808674150 is handled. Duration 235 ms by bot id=8704086460
+2026-03-17 21:29:28,890 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-17 21:29:29,302 | INFO | aiogram.event | Update id=808674151 is handled. Duration 413 ms by bot id=8704086460
+2026-03-17 21:29:53,311 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-17 21:29:53,696 | INFO | aiogram.event | Update id=808674152 is handled. Duration 385 ms by bot id=8704086460
+2026-03-17 21:29:54,698 | INFO | aiogram.event | Update id=808674153 is handled. Duration 129 ms by bot id=8704086460
+2026-03-17 21:29:56,051 | INFO | aiogram.event | Update id=808674154 is handled. Duration 130 ms by bot id=8704086460
+2026-03-17 21:29:57,841 | INFO | aiogram.event | Update id=808674155 is handled. Duration 144 ms by bot id=8704086460
+2026-03-17 21:29:59,800 | INFO | aiogram.event | Update id=808674156 is handled. Duration 122 ms by bot id=8704086460
+2026-03-17 21:31:52,707 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:31:52,708 | INFO | barbershop_bot | База отключена
+2026-03-17 21:31:56,617 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 21:31:56,912 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 21:31:56,940 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 21:31:56,940 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:31:56,940 | INFO | barbershop_bot | База подключена
+2026-03-17 21:31:56,940 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 21:31:56,941 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 21:31:57,312 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 21:33:30,662 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:33:30,662 | INFO | barbershop_bot | База отключена
+2026-03-17 21:33:34,182 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 21:33:34,474 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 21:33:34,500 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 21:33:34,500 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:33:34,501 | INFO | barbershop_bot | База подключена
+2026-03-17 21:33:34,501 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 21:33:34,501 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 21:33:34,859 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 21:34:44,999 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:34:45,000 | INFO | barbershop_bot | База отключена
+2026-03-17 21:34:48,192 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 21:34:48,486 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 21:34:48,512 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 21:34:48,512 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:34:48,512 | INFO | barbershop_bot | База подключена
+2026-03-17 21:34:48,512 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 21:34:48,512 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 21:34:48,816 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 21:43:53,594 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:43:53,594 | INFO | barbershop_bot | База отключена
+2026-03-17 21:43:57,096 | INFO | barbershop_bot | Запуск бота...
+2026-03-17 21:43:57,387 | INFO | aiogram.dispatcher | Start polling
+2026-03-17 21:43:57,413 | INFO | barbershop_bot | Подключение к базе...
+2026-03-17 21:43:57,414 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-17 21:43:57,414 | INFO | barbershop_bot | База подключена
+2026-03-17 21:43:57,414 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-17 21:43:57,414 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-17 21:43:57,731 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-17 21:48:11,520 | INFO | aiogram.event | Update id=808674157 is handled. Duration 343 ms by bot id=8704086460
+2026-03-17 21:48:13,678 | INFO | aiogram.event | Update id=808674158 is handled. Duration 144 ms by bot id=8704086460
+2026-03-17 21:48:15,631 | INFO | aiogram.event | Update id=808674159 is handled. Duration 130 ms by bot id=8704086460
+2026-03-17 21:48:17,468 | INFO | aiogram.event | Update id=808674160 is handled. Duration 152 ms by bot id=8704086460
+2026-03-17 21:48:18,569 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-17 21:48:19,010 | INFO | aiogram.event | Update id=808674161 is handled. Duration 442 ms by bot id=8704086460
+2026-03-18 10:58:44,040 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 10:58:44,339 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 10:58:44,340 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 10:58:44,571 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 10:58:44,571 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 10:58:44,572 | INFO | barbershop_bot | База подключена
+2026-03-18 10:58:44,572 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 10:58:44,572 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 10:58:44,574 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 10:58:44,917 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 10:58:58,395 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 10:58:59,148 | INFO | aiogram.event | Update id=808674162 is handled. Duration 766 ms by bot id=8704086460
+2026-03-18 10:59:00,711 | INFO | aiogram.event | Update id=808674163 is handled. Duration 218 ms by bot id=8704086460
+2026-03-18 10:59:03,105 | INFO | aiogram.event | Update id=808674164 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 10:59:04,574 | INFO | aiogram.event | Update id=808674165 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 10:59:05,974 | INFO | aiogram.event | Update id=808674166 is handled. Duration 203 ms by bot id=8704086460
+2026-03-18 11:00:45,009 | INFO | barbershop_bot | Отправлено 1h напоминание пользователю 611996998
+2026-03-18 11:34:54,883 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 11:34:54,886 | INFO | barbershop_bot | База отключена
+2026-03-18 11:35:09,294 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 11:35:09,806 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 11:35:09,806 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 11:35:09,866 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 11:35:09,866 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 11:35:09,867 | INFO | barbershop_bot | База подключена
+2026-03-18 11:35:09,867 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 11:35:09,867 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 11:35:09,868 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 11:35:10,244 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 11:35:14,857 | INFO | aiogram.event | Update id=808674167 is handled. Duration 359 ms by bot id=8704086460
+2026-03-18 11:35:16,347 | INFO | aiogram.event | Update id=808674168 is handled. Duration 172 ms by bot id=8704086460
+2026-03-18 11:35:17,603 | INFO | aiogram.event | Update id=808674169 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:35:18,968 | INFO | aiogram.event | Update id=808674170 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:35:20,018 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:35:20,146 | INFO | aiogram.event | Update id=808674171 is handled. Duration 141 ms by bot id=8704086460
+2026-03-18 11:35:21,369 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 11:35:21,495 | INFO | aiogram.event | Update id=808674172 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:35:23,137 | INFO | aiogram.event | Update id=808674173 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:35:24,889 | INFO | aiogram.event | Update id=808674174 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 11:35:28,169 | INFO | aiogram.event | Update id=808674175 is handled. Duration 500 ms by bot id=8704086460
+2026-03-18 11:35:29,911 | INFO | aiogram.event | Update id=808674176 is handled. Duration 297 ms by bot id=8704086460
+2026-03-18 11:35:31,670 | INFO | aiogram.event | Update id=808674177 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 11:35:33,500 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:35:33,677 | INFO | aiogram.event | Update id=808674178 is handled. Duration 171 ms by bot id=8704086460
+2026-03-18 11:35:39,062 | INFO | barbershop_bot | Пользователь 611996998 отменил запись id=31
+2026-03-18 11:35:39,170 | INFO | aiogram.event | Update id=808674179 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 11:35:41,056 | INFO | aiogram.event | Update id=808674180 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:35:42,587 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:35:42,716 | INFO | aiogram.event | Update id=808674181 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:36:23,132 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 11:36:23,145 | INFO | barbershop_bot | USER 611996998: Зарегистрирован новый пользователь
+2026-03-18 11:36:23,614 | INFO | aiogram.event | Update id=808674182 is handled. Duration 469 ms by bot id=8704086460
+2026-03-18 11:38:23,404 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 11:38:23,497 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 11:38:23,497 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 11:38:23,540 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 11:38:23,540 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 11:38:23,540 | INFO | barbershop_bot | База подключена
+2026-03-18 11:38:23,541 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 11:38:23,541 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 11:38:23,541 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 11:38:24,940 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 11:38:35,193 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:38:35,563 | INFO | aiogram.event | Update id=808674183 is handled. Duration 375 ms by bot id=8704086460
+2026-03-18 11:38:36,442 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 11:38:36,569 | INFO | aiogram.event | Update id=808674184 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 11:38:38,515 | INFO | aiogram.event | Update id=808674185 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:38:40,605 | INFO | aiogram.event | Update id=808674186 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 11:38:42,465 | INFO | aiogram.event | Update id=808674187 is handled. Duration 375 ms by bot id=8704086460
+2026-03-18 11:38:43,706 | INFO | aiogram.event | Update id=808674188 is handled. Duration 234 ms by bot id=8704086460
+2026-03-18 11:38:45,139 | INFO | aiogram.event | Update id=808674189 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 11:38:47,800 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:38:47,941 | INFO | aiogram.event | Update id=808674190 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 11:38:48,809 | INFO | aiogram.event | Update id=808674191 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:38:50,826 | INFO | aiogram.event | Update id=808674192 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:38:51,938 | INFO | aiogram.event | Update id=808674193 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:38:53,917 | INFO | aiogram.event | Update id=808674194 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 11:50:43,932 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 11:50:44,025 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 11:50:44,026 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 11:50:44,074 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 11:50:44,074 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 11:50:44,075 | INFO | barbershop_bot | База подключена
+2026-03-18 11:50:44,075 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 11:50:44,076 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 11:50:44,077 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 11:50:44,423 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 11:51:04,808 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 11:51:05,179 | INFO | aiogram.event | Update id=808674195 is handled. Duration 375 ms by bot id=8704086460
+2026-03-18 11:51:06,994 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:51:07,126 | INFO | aiogram.event | Update id=808674196 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:51:09,098 | INFO | aiogram.event | Update id=808674197 is not handled. Duration 0 ms by bot id=8704086460
+2026-03-18 11:51:09,098 | ERROR | aiogram.event | Cause exception while process update id=808674197 by bot id=8704086460
+NameError: name 'db' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Python Project\Education\2025-2026\barbershop.bot\barbershop\app\handlers.py", line 74, in schedules_cmd
+    text = await get_schedules_text()
+  File "C:\Python Project\Education\2025-2026\barbershop.bot\barbershop\app\db.py", line 328, in get_schedules_text
+    rows = await db.get_schedules()
+NameError: name 'db' is not defined
+2026-03-18 11:51:25,931 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 11:51:25,934 | INFO | barbershop_bot | База отключена
+2026-03-18 11:52:24,490 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 11:52:24,568 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 11:52:24,569 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 11:52:24,603 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 11:52:24,603 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 11:52:24,604 | INFO | barbershop_bot | База подключена
+2026-03-18 11:52:24,604 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 11:52:24,604 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 11:52:24,605 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 11:52:24,952 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 11:52:35,341 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 11:52:35,733 | INFO | aiogram.event | Update id=808674198 is handled. Duration 390 ms by bot id=8704086460
+2026-03-18 11:52:37,592 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:52:37,724 | INFO | aiogram.event | Update id=808674199 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 11:52:39,280 | INFO | aiogram.event | Update id=808674200 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 11:52:40,810 | INFO | aiogram.event | Update id=808674201 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 11:52:42,411 | INFO | aiogram.event | Update id=808674202 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 11:52:44,524 | INFO | aiogram.event | Update id=808674203 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 11:52:46,465 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 11:52:46,600 | INFO | aiogram.event | Update id=808674204 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 11:52:51,263 | INFO | aiogram.event | Update id=808674205 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 11:52:52,947 | INFO | aiogram.event | Update id=808674206 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 11:52:54,694 | INFO | aiogram.event | Update id=808674207 is handled. Duration 421 ms by bot id=8704086460
+2026-03-18 11:52:55,847 | INFO | aiogram.event | Update id=808674208 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 11:52:57,337 | INFO | aiogram.event | Update id=808674209 is handled. Duration 172 ms by bot id=8704086460
+2026-03-18 11:52:58,668 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 11:52:58,964 | INFO | aiogram.event | Update id=808674210 is handled. Duration 297 ms by bot id=8704086460
+2026-03-18 11:58:52,394 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 11:58:52,859 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 11:58:52,860 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 11:58:52,912 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 11:58:52,912 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 11:58:52,912 | INFO | barbershop_bot | База подключена
+2026-03-18 11:58:52,912 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 11:58:52,913 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 11:58:52,913 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 11:58:53,282 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:00:28,601 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:00:29,560 | INFO | aiogram.event | Update id=808674211 is handled. Duration 968 ms by bot id=8704086460
+2026-03-18 12:00:35,105 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 12:00:35,617 | INFO | barbershop_bot | USER 611996998: Зарегистрирован новый пользователь
+2026-03-18 12:00:35,757 | INFO | aiogram.event | Update id=808674212 is handled. Duration 655 ms by bot id=8704086460
+2026-03-18 12:00:37,648 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 12:00:37,796 | INFO | aiogram.event | Update id=808674213 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 12:00:39,845 | INFO | aiogram.event | Update id=808674214 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:00:41,742 | INFO | aiogram.event | Update id=808674215 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 12:00:43,770 | INFO | aiogram.event | Update id=808674216 is handled. Duration 452 ms by bot id=8704086460
+2026-03-18 12:00:45,969 | INFO | aiogram.event | Update id=808674217 is handled. Duration 281 ms by bot id=8704086460
+2026-03-18 12:00:47,504 | INFO | aiogram.event | Update id=808674218 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 12:00:48,819 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:00:48,976 | INFO | aiogram.event | Update id=808674219 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 12:00:50,555 | INFO | aiogram.event | Update id=808674220 is handled. Duration 202 ms by bot id=8704086460
+2026-03-18 12:00:51,970 | INFO | aiogram.event | Update id=808674221 is handled. Duration 172 ms by bot id=8704086460
+2026-03-18 12:00:53,175 | INFO | aiogram.event | Update id=808674222 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 12:00:54,373 | INFO | aiogram.event | Update id=808674223 is handled. Duration 188 ms by bot id=8704086460
+2026-03-18 12:04:35,349 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:04:35,450 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:04:35,451 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:04:35,500 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:04:35,500 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:04:35,500 | INFO | barbershop_bot | База подключена
+2026-03-18 12:04:35,500 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:04:35,500 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:04:35,501 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:04:35,840 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:04:43,586 | INFO | aiogram.event | Update id=808674224 is handled. Duration 343 ms by bot id=8704086460
+2026-03-18 12:04:44,897 | INFO | aiogram.event | Update id=808674225 is handled. Duration 360 ms by bot id=8704086460
+2026-03-18 12:04:45,963 | INFO | aiogram.event | Update id=808674226 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:04:47,135 | INFO | aiogram.event | Update id=808674227 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 12:04:48,092 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:04:48,218 | INFO | aiogram.event | Update id=808674228 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 12:04:49,964 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 12:04:50,100 | INFO | aiogram.event | Update id=808674229 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:04:52,017 | INFO | aiogram.event | Update id=808674230 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 12:04:53,312 | INFO | aiogram.event | Update id=808674231 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:04:55,165 | INFO | aiogram.event | Update id=808674232 is handled. Duration 359 ms by bot id=8704086460
+2026-03-18 12:04:56,630 | INFO | aiogram.event | Update id=808674233 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 12:04:57,991 | INFO | aiogram.event | Update id=808674234 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:05:01,546 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:05:01,799 | INFO | aiogram.event | Update id=808674235 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 12:11:28,070 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:11:28,169 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:11:28,170 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:11:28,213 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:11:28,213 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:11:28,213 | INFO | barbershop_bot | База подключена
+2026-03-18 12:11:28,213 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:11:28,214 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:11:28,214 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:11:28,609 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:11:42,220 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 12:11:43,224 | INFO | aiogram.event | Update id=808674236 is handled. Duration 1015 ms by bot id=8704086460
+2026-03-18 12:11:47,679 | INFO | aiogram.event | Update id=808674237 is handled. Duration 155 ms by bot id=8704086460
+2026-03-18 12:11:49,329 | INFO | aiogram.event | Update id=808674238 is handled. Duration 313 ms by bot id=8704086460
+2026-03-18 12:11:54,667 | INFO | aiogram.event | Update id=808674239 is handled. Duration 186 ms by bot id=8704086460
+2026-03-18 12:11:56,036 | INFO | aiogram.event | Update id=808674240 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 12:11:58,204 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:11:58,512 | INFO | aiogram.event | Update id=808674241 is handled. Duration 311 ms by bot id=8704086460
+2026-03-18 12:12:01,030 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 12:12:01,189 | INFO | aiogram.event | Update id=808674242 is handled. Duration 155 ms by bot id=8704086460
+2026-03-18 12:12:03,513 | INFO | aiogram.event | Update id=808674243 is handled. Duration 155 ms by bot id=8704086460
+2026-03-18 12:12:06,156 | INFO | aiogram.event | Update id=808674244 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 12:12:08,724 | INFO | aiogram.event | Update id=808674245 is handled. Duration 452 ms by bot id=8704086460
+2026-03-18 12:12:10,130 | INFO | aiogram.event | Update id=808674246 is handled. Duration 296 ms by bot id=8704086460
+2026-03-18 12:12:11,848 | INFO | aiogram.event | Update id=808674247 is handled. Duration 203 ms by bot id=8704086460
+2026-03-18 12:12:13,215 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:12:13,711 | INFO | aiogram.event | Update id=808674248 is handled. Duration 500 ms by bot id=8704086460
+2026-03-18 12:16:58,563 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:16:58,993 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:16:58,993 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:16:59,026 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:16:59,026 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:16:59,026 | INFO | barbershop_bot | База подключена
+2026-03-18 12:16:59,026 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:16:59,027 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:16:59,027 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:16:59,456 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:17:28,943 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 12:17:29,016 | INFO | barbershop_bot | USER 611996998: Зарегистрирован новый пользователь
+2026-03-18 12:17:29,371 | INFO | aiogram.event | Update id=808674249 is handled. Duration 438 ms by bot id=8704086460
+2026-03-18 12:17:31,910 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 12:17:32,115 | INFO | aiogram.event | Update id=808674250 is handled. Duration 218 ms by bot id=8704086460
+2026-03-18 12:17:33,400 | INFO | aiogram.event | Update id=808674251 is handled. Duration 141 ms by bot id=8704086460
+2026-03-18 12:17:34,968 | INFO | aiogram.event | Update id=808674252 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:17:37,010 | INFO | aiogram.event | Update id=808674253 is handled. Duration 375 ms by bot id=8704086460
+2026-03-18 12:17:38,325 | INFO | aiogram.event | Update id=808674254 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 12:17:39,702 | INFO | aiogram.event | Update id=808674255 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:17:41,619 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:17:41,624 | INFO | aiogram.event | Update id=808674256 is not handled. Duration 0 ms by bot id=8704086460
+2026-03-18 12:17:41,625 | ERROR | aiogram.event | Cause exception while process update id=808674256 by bot id=8704086460
+NameError: name 'InlineKeyboardButton' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Python Project\Education\2025-2026\barbershop.bot\barbershop\app\handlers.py", line 180, in mybookings_cmd
+    [InlineKeyboardButton(text="❌ Отменить запись", callback_data=f"cancel:{b['id']}")]
+NameError: name 'InlineKeyboardButton' is not defined
+2026-03-18 12:17:44,413 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:17:44,420 | INFO | aiogram.event | Update id=808674257 is not handled. Duration 14 ms by bot id=8704086460
+2026-03-18 12:17:44,421 | ERROR | aiogram.event | Cause exception while process update id=808674257 by bot id=8704086460
+NameError: name 'InlineKeyboardButton' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Python Project\Education\2025-2026\barbershop.bot\barbershop\app\handlers.py", line 180, in mybookings_cmd
+    [InlineKeyboardButton(text="❌ Отменить запись", callback_data=f"cancel:{b['id']}")]
+NameError: name 'InlineKeyboardButton' is not defined
+2026-03-18 12:17:49,969 | INFO | aiogram.event | Update id=808674258 is handled. Duration 186 ms by bot id=8704086460
+2026-03-18 12:17:51,750 | INFO | aiogram.event | Update id=808674259 is handled. Duration 485 ms by bot id=8704086460
+2026-03-18 12:17:52,680 | INFO | aiogram.event | Update id=808674260 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:17:53,776 | INFO | aiogram.event | Update id=808674261 is handled. Duration 125 ms by bot id=8704086460
+2026-03-18 12:17:55,271 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:17:55,275 | INFO | aiogram.event | Update id=808674262 is not handled. Duration 16 ms by bot id=8704086460
+2026-03-18 12:17:55,275 | ERROR | aiogram.event | Cause exception while process update id=808674262 by bot id=8704086460
+NameError: name 'InlineKeyboardButton' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Marat\AppData\Local\Programs\Python\Python39\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Python Project\Education\2025-2026\barbershop.bot\barbershop\app\handlers.py", line 180, in mybookings_cmd
+    [InlineKeyboardButton(text="❌ Отменить запись", callback_data=f"cancel:{b['id']}")]
+NameError: name 'InlineKeyboardButton' is not defined
+2026-03-18 12:18:45,464 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:18:45,467 | INFO | barbershop_bot | База отключена
+2026-03-18 12:18:56,068 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:18:56,115 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:18:56,116 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:18:56,146 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:18:56,146 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:18:56,146 | INFO | barbershop_bot | База подключена
+2026-03-18 12:18:56,147 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:18:56,147 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:18:56,148 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:18:56,515 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:18:59,248 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:18:59,755 | INFO | aiogram.event | Update id=808674263 is handled. Duration 500 ms by bot id=8704086460
+2026-03-18 12:19:13,278 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 12:19:13,416 | INFO | aiogram.event | Update id=808674264 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 12:19:16,184 | INFO | aiogram.event | Update id=808674265 is handled. Duration 155 ms by bot id=8704086460
+2026-03-18 12:19:18,027 | INFO | aiogram.event | Update id=808674266 is handled. Duration 172 ms by bot id=8704086460
+2026-03-18 12:19:19,691 | INFO | aiogram.event | Update id=808674267 is handled. Duration 405 ms by bot id=8704086460
+2026-03-18 12:19:21,150 | INFO | aiogram.event | Update id=808674268 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 12:19:22,534 | INFO | aiogram.event | Update id=808674269 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 12:19:24,181 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:19:24,473 | INFO | aiogram.event | Update id=808674270 is handled. Duration 281 ms by bot id=8704086460
+2026-03-18 12:24:11,963 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:24:12,010 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:24:12,011 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:24:12,062 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:24:12,063 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:24:12,063 | INFO | barbershop_bot | База подключена
+2026-03-18 12:24:12,063 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:24:12,063 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:24:12,064 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:24:12,654 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:26:06,728 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:26:06,775 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:26:06,776 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:26:06,818 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:26:06,818 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:26:06,818 | INFO | barbershop_bot | База подключена
+2026-03-18 12:26:06,819 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:26:06,819 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:26:06,819 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:26:07,124 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:28:36,203 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:28:36,247 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:28:36,247 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:28:36,279 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:28:36,279 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:28:36,279 | INFO | barbershop_bot | База подключена
+2026-03-18 12:28:36,279 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:28:36,280 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:28:36,280 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:28:36,642 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:29:43,326 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:29:43,369 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:29:43,370 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:29:43,400 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:29:43,400 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:29:43,400 | INFO | barbershop_bot | База подключена
+2026-03-18 12:29:43,400 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:29:43,400 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:29:43,401 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:29:43,769 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:30:43,239 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:30:43,284 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:30:43,284 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:30:43,314 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:30:43,315 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:30:43,315 | INFO | barbershop_bot | База подключена
+2026-03-18 12:30:43,315 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:30:43,315 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:30:43,316 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:30:43,669 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:32:17,682 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:32:17,727 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:32:17,728 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:32:17,758 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:32:17,758 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:32:17,758 | INFO | barbershop_bot | База подключена
+2026-03-18 12:32:17,758 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:32:17,759 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:32:17,759 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:32:18,202 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:35:55,907 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 12:35:55,951 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 12:35:55,951 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 12:35:55,981 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 12:35:55,982 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 12:35:55,982 | INFO | barbershop_bot | База подключена
+2026-03-18 12:35:55,982 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 12:35:55,982 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 12:35:55,984 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 12:35:56,300 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 12:36:37,267 | INFO | aiogram.event | Update id=808674271 is handled. Duration 421 ms by bot id=8704086460
+2026-03-18 12:36:38,250 | INFO | aiogram.event | Update id=808674272 is handled. Duration 313 ms by bot id=8704086460
+2026-03-18 12:36:39,082 | INFO | aiogram.event | Update id=808674273 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:36:40,053 | INFO | aiogram.event | Update id=808674274 is handled. Duration 155 ms by bot id=8704086460
+2026-03-18 12:36:40,743 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:36:41,056 | INFO | aiogram.event | Update id=808674275 is handled. Duration 311 ms by bot id=8704086460
+2026-03-18 12:36:41,976 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 12:36:42,144 | INFO | aiogram.event | Update id=808674276 is handled. Duration 171 ms by bot id=8704086460
+2026-03-18 12:36:44,368 | INFO | aiogram.event | Update id=808674277 is handled. Duration 343 ms by bot id=8704086460
+2026-03-18 12:36:46,056 | INFO | aiogram.event | Update id=808674278 is handled. Duration 155 ms by bot id=8704086460
+2026-03-18 12:36:48,503 | INFO | aiogram.event | Update id=808674279 is handled. Duration 281 ms by bot id=8704086460
+2026-03-18 12:36:50,215 | INFO | aiogram.event | Update id=808674280 is handled. Duration 453 ms by bot id=8704086460
+2026-03-18 12:36:51,946 | INFO | aiogram.event | Update id=808674281 is handled. Duration 281 ms by bot id=8704086460
+2026-03-18 12:36:53,737 | INFO | aiogram.event | Update id=808674282 is handled. Duration 219 ms by bot id=8704086460
+2026-03-18 12:36:54,983 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:36:55,471 | INFO | aiogram.event | Update id=808674283 is handled. Duration 484 ms by bot id=8704086460
+2026-03-18 12:43:12,778 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 12:43:13,476 | INFO | aiogram.event | Update id=808674284 is handled. Duration 702 ms by bot id=8704086460
+2026-03-18 12:43:15,292 | INFO | aiogram.event | Update id=808674285 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 12:43:17,056 | INFO | aiogram.event | Update id=808674286 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 12:43:19,679 | INFO | aiogram.event | Update id=808674287 is handled. Duration 311 ms by bot id=8704086460
+2026-03-18 12:43:21,826 | INFO | aiogram.event | Update id=808674288 is handled. Duration 250 ms by bot id=8704086460
+2026-03-18 13:25:07,548 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 13:25:07,940 | INFO | aiogram.event | Update id=808674289 is handled. Duration 390 ms by bot id=8704086460
+2026-03-18 13:57:54,457 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-03-18 13:57:54,460 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8704086460)
+2026-03-18 13:57:55,487 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-03-18 13:57:55,487 | WARNING | aiogram.dispatcher | Sleep for 1.485730 seconds and try again... (tryings = 1, bot id = 8704086460)
+2026-03-18 13:57:57,279 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-03-18 13:57:57,283 | WARNING | aiogram.dispatcher | Sleep for 1.923351 seconds and try again... (tryings = 2, bot id = 8704086460)
+2026-03-18 13:57:59,259 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-03-18 13:57:59,282 | WARNING | aiogram.dispatcher | Sleep for 2.446248 seconds and try again... (tryings = 3, bot id = 8704086460)
+2026-03-18 13:58:12,099 | INFO | aiogram.dispatcher | Connection established (tryings = 4, bot id = 8704086460)
+2026-03-18 14:00:54,862 | INFO | barbershop_bot | Отправлено 24h напоминание пользователю 611996998
+2026-03-18 14:35:19,032 | INFO | databases | Disconnected from database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 14:35:19,033 | INFO | barbershop_bot | База отключена
+2026-03-18 14:35:30,355 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 14:35:30,408 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 14:35:30,409 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 14:35:30,454 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 14:35:30,454 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 14:35:30,454 | INFO | barbershop_bot | База подключена
+2026-03-18 14:35:30,454 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 14:35:30,455 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 14:35:30,455 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 14:35:30,823 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 14:37:29,133 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 14:37:29,181 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 14:37:29,182 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 14:37:29,225 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 14:37:29,226 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 14:37:29,226 | INFO | barbershop_bot | База подключена
+2026-03-18 14:37:29,226 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 14:37:29,226 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 14:37:29,227 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 14:37:29,601 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 15:29:39,071 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-18 15:29:41,334 | INFO | aiogram.event | Update id=808674290 is handled. Duration 2328 ms by bot id=8704086460
+2026-03-18 15:29:42,523 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-18 15:29:42,728 | INFO | aiogram.event | Update id=808674291 is handled. Duration 219 ms by bot id=8704086460
+2026-03-18 15:29:46,888 | INFO | aiogram.event | Update id=808674292 is handled. Duration 155 ms by bot id=8704086460
+2026-03-18 15:29:49,560 | INFO | aiogram.event | Update id=808674293 is handled. Duration 797 ms by bot id=8704086460
+2026-03-18 15:29:51,402 | INFO | aiogram.event | Update id=808674294 is handled. Duration 828 ms by bot id=8704086460
+2026-03-18 15:29:55,957 | INFO | aiogram.event | Update id=808674295 is handled. Duration 2063 ms by bot id=8704086460
+2026-03-18 15:30:01,920 | INFO | aiogram.event | Update id=808674296 is handled. Duration 281 ms by bot id=8704086460
+2026-03-18 15:30:03,579 | INFO | aiogram.event | Update id=808674297 is handled. Duration 156 ms by bot id=8704086460
+2026-03-18 17:00:32,056 | ERROR | barbershop_bot | Ошибка в задаче напоминаний: Telegram server says - Bad Request: chat not found
+2026-03-18 17:06:51,336 | INFO | aiogram.event | Update id=808674298 is handled. Duration 515 ms by bot id=8704086460
+2026-03-18 17:09:09,996 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-18 17:09:10,044 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-18 17:09:10,045 | INFO | aiogram.dispatcher | Start polling
+2026-03-18 17:09:10,188 | INFO | barbershop_bot | Подключение к базе...
+2026-03-18 17:09:10,188 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-18 17:09:10,188 | INFO | barbershop_bot | База подключена
+2026-03-18 17:09:10,189 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-18 17:09:10,189 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-18 17:09:10,190 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-18 17:09:10,589 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-18 17:09:17,757 | INFO | aiogram.event | Update id=808674299 is handled. Duration 421 ms by bot id=8704086460
+2026-03-18 17:09:29,020 | INFO | aiogram.event | Update id=808674300 is handled. Duration 311 ms by bot id=8704086460
+2026-03-18 17:09:33,971 | INFO | aiogram.event | Update id=808674301 is handled. Duration 140 ms by bot id=8704086460
+2026-03-18 17:09:44,673 | INFO | aiogram.event | Update id=808674302 is handled. Duration 139 ms by bot id=8704086460
+2026-03-18 17:09:49,826 | INFO | barbershop_bot | /start | user=611996998
+2026-03-18 17:09:49,978 | INFO | aiogram.event | Update id=808674303 is handled. Duration 156 ms by bot id=8704086460
+2026-03-19 11:41:09,542 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-19 11:41:09,694 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-19 11:41:09,694 | INFO | aiogram.dispatcher | Start polling
+2026-03-19 11:41:09,872 | INFO | barbershop_bot | Подключение к базе...
+2026-03-19 11:41:09,873 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-19 11:41:09,874 | INFO | barbershop_bot | База подключена
+2026-03-19 11:41:09,874 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-19 11:41:09,875 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-19 11:41:09,876 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-19 11:41:10,301 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-19 11:42:16,130 | INFO | barbershop_bot | /start | user=611996998
+2026-03-19 11:42:16,552 | INFO | aiogram.event | Update id=808674304 is handled. Duration 422 ms by bot id=8704086460
+2026-03-19 11:45:37,260 | INFO | aiogram.event | Update id=808674305 is handled. Duration 500 ms by bot id=8704086460
+2026-03-19 11:45:52,220 | INFO | aiogram.event | Update id=808674306 is handled. Duration 125 ms by bot id=8704086460
+2026-03-19 11:45:54,003 | INFO | aiogram.event | Update id=808674307 is handled. Duration 281 ms by bot id=8704086460
+2026-03-19 11:45:56,914 | INFO | aiogram.event | Update id=808674308 is handled. Duration 140 ms by bot id=8704086460
+2026-03-19 11:46:06,079 | INFO | aiogram.event | Update id=808674309 is handled. Duration 125 ms by bot id=8704086460
+2026-03-19 11:46:40,047 | INFO | aiogram.event | Update id=808674310 is handled. Duration 343 ms by bot id=8704086460
+2026-03-19 11:47:02,178 | INFO | aiogram.event | Update id=808674311 is handled. Duration 359 ms by bot id=8704086460
+2026-03-19 11:49:15,050 | INFO | aiogram.event | Update id=808674312 is handled. Duration 547 ms by bot id=8704086460
+2026-03-19 11:54:59,154 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-19 11:54:59,580 | INFO | aiogram.event | Update id=808674313 is handled. Duration 438 ms by bot id=8704086460
+2026-03-19 11:56:11,274 | INFO | aiogram.event | Update id=808674314 is handled. Duration 765 ms by bot id=8704086460
+2026-03-19 11:56:42,722 | INFO | aiogram.event | Update id=808674315 is handled. Duration 405 ms by bot id=8704086460
+2026-03-19 11:57:06,727 | INFO | aiogram.event | Update id=808674316 is handled. Duration 593 ms by bot id=8704086460
+2026-03-19 11:57:31,547 | INFO | aiogram.event | Update id=808674317 is handled. Duration 515 ms by bot id=8704086460
+2026-03-19 11:57:55,597 | INFO | aiogram.event | Update id=808674318 is handled. Duration 421 ms by bot id=8704086460
+2026-03-19 12:17:53,544 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-19 12:17:53,604 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-19 12:17:53,605 | INFO | aiogram.dispatcher | Start polling
+2026-03-19 12:17:53,649 | INFO | barbershop_bot | Подключение к базе...
+2026-03-19 12:17:53,649 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-19 12:17:53,649 | INFO | barbershop_bot | База подключена
+2026-03-19 12:17:53,649 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-19 12:17:53,650 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-19 12:17:53,651 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-19 12:17:54,006 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-19 12:28:18,009 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=/help
+2026-03-19 12:28:18,011 | INFO | aiogram.event | Update id=808674319 is handled. Duration 0 ms by bot id=8704086460
+2026-03-19 12:28:24,055 | INFO | barbershop_bot | /start | user=611996998
+2026-03-19 12:28:24,483 | INFO | aiogram.event | Update id=808674320 is handled. Duration 438 ms by bot id=8704086460
+2026-03-19 13:00:54,959 | INFO | barbershop_bot | Отправлено 1h напоминание пользователю 611996998
+2026-03-19 13:21:53,342 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-19 13:21:54,206 | INFO | aiogram.event | Update id=808674321 is handled. Duration 890 ms by bot id=8704086460
+2026-03-19 13:21:56,362 | INFO | aiogram.event | Update id=808674322 is handled. Duration 156 ms by bot id=8704086460
+2026-03-19 13:21:59,659 | INFO | aiogram.event | Update id=808674323 is handled. Duration 875 ms by bot id=8704086460
+2026-03-19 13:22:01,187 | INFO | aiogram.event | Update id=808674324 is handled. Duration 250 ms by bot id=8704086460
+2026-03-19 13:22:03,063 | INFO | aiogram.event | Update id=808674325 is handled. Duration 172 ms by bot id=8704086460
+2026-03-19 13:57:35,459 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-03-19 13:57:35,480 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8704086460)
+2026-03-19 13:57:36,516 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-03-19 13:57:36,518 | WARNING | aiogram.dispatcher | Sleep for 1.294115 seconds and try again... (tryings = 1, bot id = 8704086460)
+2026-03-19 13:57:37,813 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-03-19 13:57:37,813 | WARNING | aiogram.dispatcher | Sleep for 1.690144 seconds and try again... (tryings = 2, bot id = 8704086460)
+2026-03-19 13:57:49,824 | INFO | aiogram.dispatcher | Connection established (tryings = 3, bot id = 8704086460)
+2026-03-19 14:51:18,579 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-19 14:51:18,633 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-19 14:51:18,634 | INFO | aiogram.dispatcher | Start polling
+2026-03-19 14:51:18,698 | INFO | barbershop_bot | Подключение к базе...
+2026-03-19 14:51:18,699 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-19 14:51:18,699 | INFO | barbershop_bot | База подключена
+2026-03-19 14:51:18,699 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-19 14:51:18,700 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-19 14:51:18,700 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-19 14:51:19,077 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-19 14:51:49,162 | INFO | barbershop_bot | /start | user=611996998
+2026-03-19 14:51:49,547 | INFO | aiogram.event | Update id=808674326 is handled. Duration 390 ms by bot id=8704086460
+2026-03-19 14:51:51,382 | INFO | aiogram.event | Update id=808674327 is handled. Duration 171 ms by bot id=8704086460
+2026-03-19 14:51:53,822 | INFO | aiogram.event | Update id=808674328 is handled. Duration 265 ms by bot id=8704086460
+2026-03-19 14:51:56,013 | INFO | aiogram.event | Update id=808674329 is handled. Duration 156 ms by bot id=8704086460
+2026-03-19 14:51:58,573 | INFO | aiogram.event | Update id=808674330 is handled. Duration 859 ms by bot id=8704086460
+2026-03-19 14:51:59,433 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-19 14:52:00,411 | INFO | aiogram.event | Update id=808674331 is handled. Duration 984 ms by bot id=8704086460
+2026-03-19 14:52:01,492 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-19 14:52:02,030 | INFO | aiogram.event | Update id=808674332 is handled. Duration 546 ms by bot id=8704086460
+2026-03-19 14:52:04,995 | INFO | aiogram.event | Update id=808674333 is handled. Duration 141 ms by bot id=8704086460
+2026-03-19 14:52:06,601 | INFO | aiogram.event | Update id=808674334 is handled. Duration 327 ms by bot id=8704086460
+2026-03-19 14:52:08,575 | INFO | aiogram.event | Update id=808674335 is handled. Duration 297 ms by bot id=8704086460
+2026-03-19 14:52:11,755 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Ирина
+2026-03-19 14:52:11,755 | INFO | aiogram.event | Update id=808674336 is handled. Duration 0 ms by bot id=8704086460
+2026-03-19 14:52:19,604 | INFO | barbershop_bot | MESSAGE | user=611996998 | text=Светалана
+2026-03-19 14:52:19,605 | INFO | aiogram.event | Update id=808674337 is handled. Duration 0 ms by bot id=8704086460
+2026-03-19 14:54:19,418 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-19 14:54:19,461 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-19 14:54:19,461 | INFO | aiogram.dispatcher | Start polling
+2026-03-19 14:54:19,491 | INFO | barbershop_bot | Подключение к базе...
+2026-03-19 14:54:19,492 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-19 14:54:19,492 | INFO | barbershop_bot | База подключена
+2026-03-19 14:54:19,492 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-19 14:54:19,492 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-19 14:54:19,492 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-19 14:54:19,834 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-19 14:54:34,412 | INFO | barbershop_bot | /start | user=611996998
+2026-03-19 14:54:35,245 | INFO | aiogram.event | Update id=808674338 is handled. Duration 828 ms by bot id=8704086460
+2026-03-19 14:54:37,540 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-19 14:54:37,776 | INFO | aiogram.event | Update id=808674339 is handled. Duration 234 ms by bot id=8704086460
+2026-03-19 14:54:39,570 | INFO | aiogram.event | Update id=808674340 is handled. Duration 156 ms by bot id=8704086460
+2026-03-19 14:54:41,384 | INFO | aiogram.event | Update id=808674341 is handled. Duration 186 ms by bot id=8704086460
+2026-03-19 14:54:44,398 | INFO | aiogram.event | Update id=808674342 is handled. Duration 500 ms by bot id=8704086460
+2026-03-19 14:54:47,602 | INFO | aiogram.event | Update id=808674343 is handled. Duration 639 ms by bot id=8704086460
+2026-03-19 14:54:48,886 | INFO | aiogram.event | Update id=808674344 is handled. Duration 296 ms by bot id=8704086460
+2026-03-19 14:54:50,497 | INFO | aiogram.event | Update id=808674345 is handled. Duration 172 ms by bot id=8704086460
+2026-03-19 14:54:52,420 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-19 14:54:53,239 | INFO | aiogram.event | Update id=808674346 is handled. Duration 828 ms by bot id=8704086460
+2026-03-19 14:56:31,432 | INFO | barbershop_bot | Запуск бота... Режим: POLLING
+2026-03-19 14:56:31,482 | INFO | barbershop_bot | Запуск через POLLING (бот + сервер)
+2026-03-19 14:56:31,482 | INFO | aiogram.dispatcher | Start polling
+2026-03-19 14:56:31,515 | INFO | barbershop_bot | Подключение к базе...
+2026-03-19 14:56:31,516 | INFO | databases | Connected to database sqlite+aiosqlite:///./barbershop.db
+2026-03-19 14:56:31,516 | INFO | barbershop_bot | База подключена
+2026-03-19 14:56:31,517 | INFO | barbershop_bot | Webhook НЕ используется (polling режим)
+2026-03-19 14:56:31,517 | INFO | barbershop_bot | Запуск напоминаний...
+2026-03-19 14:56:31,518 | INFO | barbershop_bot | Запущена задача напоминаний о записях
+2026-03-19 14:56:31,851 | INFO | aiogram.dispatcher | Run polling for bot @barbershop6969_bot id=8704086460 - 'barbershop69'
+2026-03-19 14:57:26,946 | INFO | barbershop_bot | /start | user=611996998
+2026-03-19 14:57:27,340 | INFO | aiogram.event | Update id=808674347 is handled. Duration 390 ms by bot id=8704086460
+2026-03-19 14:57:29,071 | INFO | aiogram.event | Update id=808674348 is handled. Duration 140 ms by bot id=8704086460
+2026-03-19 14:57:30,913 | INFO | aiogram.event | Update id=808674349 is handled. Duration 438 ms by bot id=8704086460
+2026-03-19 14:57:32,483 | INFO | aiogram.event | Update id=808674350 is handled. Duration 108 ms by bot id=8704086460
+2026-03-19 14:57:33,986 | INFO | aiogram.event | Update id=808674351 is handled. Duration 156 ms by bot id=8704086460
+2026-03-19 14:57:35,038 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-19 14:57:35,158 | INFO | aiogram.event | Update id=808674352 is handled. Duration 125 ms by bot id=8704086460
+2026-03-19 14:57:36,436 | INFO | barbershop_bot | Начало записи | user=611996998
+2026-03-19 14:57:36,559 | INFO | aiogram.event | Update id=808674353 is handled. Duration 125 ms by bot id=8704086460
+2026-03-19 14:57:38,837 | INFO | aiogram.event | Update id=808674354 is handled. Duration 125 ms by bot id=8704086460
+2026-03-19 14:57:40,436 | INFO | aiogram.event | Update id=808674355 is handled. Duration 140 ms by bot id=8704086460
+2026-03-19 14:57:42,390 | INFO | aiogram.event | Update id=808674356 is handled. Duration 452 ms by bot id=8704086460
+2026-03-19 14:57:44,983 | INFO | aiogram.event | Update id=808674357 is handled. Duration 391 ms by bot id=8704086460
+2026-03-19 14:57:46,548 | INFO | aiogram.event | Update id=808674358 is handled. Duration 390 ms by bot id=8704086460
+2026-03-19 14:57:48,306 | INFO | aiogram.event | Update id=808674359 is handled. Duration 125 ms by bot id=8704086460
+2026-03-19 14:57:50,276 | INFO | barbershop_bot | 'Мои записи' pressed | user=611996998
+2026-03-19 14:57:50,402 | INFO | aiogram.event | Update id=808674360 is handled. Duration 125 ms by bot id=8704086460
